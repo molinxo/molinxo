@@ -26,4 +26,4 @@
   <!-- Adicione outras seções conforme necessário -->
 
 </body>
-<iframe src="https://giphy.com/embed/108o2iMGnu4aac" width="480" height="98" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/png-kirby-108o2iMGnu4aac">via GIPHY</a></p>
+<img src="https://giphy.com/embed/108o2iMGnu4aac" width="480" height="98" frameBorder="0" class="giphy-embed" allowFullScreen></img>
