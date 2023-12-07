@@ -2,6 +2,7 @@
 <body>
   <h1>Bem vindo ao covil do Molin 🧌</h1>
 
+  <img align="right" width="150" height="150" src="https://github.com/molinxo/molinxo/assets/99094380/584bc293-f4ad-4b26-a3d7-02313426b97c.gif"></a>
   <h2>Sobre Mim</h2>
   <ul>
       <li>🛠️ Trabalhando atualmente como técnico de redes NOC.</li>
@@ -24,6 +25,3 @@
   </p>
 
   <!-- Adicione outras seções conforme necessário -->
-<img align="right" width="150" height="150" src="https://github.com/molinxo/molinxo/assets/99094380/584bc293-f4ad-4b26-a3d7-02313426b97c.gif"></a>
-</body>
-![pikachu](https://github.com/molinxo/molinxo/assets/99094380/584bc293-f4ad-4b26-a3d7-02313426b97c)
