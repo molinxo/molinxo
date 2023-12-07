@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <body>
-
   <h1>Bem vindo ao covil do Molin 🧌</h1>
 
   <h2>Sobre Mim</h2>
@@ -11,11 +10,13 @@
       <li>🇺🇸 Inglês fluente.</li>
   </ul>
 
+
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-purple?style=for-the-badge&logo=css3)
+
 
   <h2>Vamos Conectar!</h2>
   <p>
@@ -25,3 +26,4 @@
   <!-- Adicione outras seções conforme necessário -->
 
 </body>
+<img align="right" src="https://giphy.com/embed/108o2iMGnu4aac" width="480" height="98" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/stickers/png-kirby-108o2iMGnu4aac">via GIPHY</a></p>
