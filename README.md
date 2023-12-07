@@ -20,3 +20,5 @@
 ## Vamos Conectar!
 
 - 💼 LinkedIn: [Jean Molin](https://www.linkedin.com/in/jean-molin-us/)
+
+![yoshi](https://github.com/molinxo/molinxo/assets/99094380/c520c63c-cc66-43d4-ad57-82bd7ff3e2be)
