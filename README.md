@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 
 
-<h1 align="left">Bem vindo ao covil do Molin 🧌</h1> 
-
+<h1 align="left">Bem vindo ao covil do Molin 🧌>
+    
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=blue)
+</h1> 
 
 <h2>Sobre Mim</h2>
 <img align="right" width="150" height="150" src="https://github.com/molinxo/molinxo/assets/99094380/584bc293-f4ad-4b26-a3d7-02313426b97c.gif"></a>
