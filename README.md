@@ -2,9 +2,10 @@
 
 ## Sobre Mim
 
-- 🌐 Desenvolvedor apaixonado por tecnologia.
-- 🚀 Explorando o mundo da programação.
-- 💡 Aprendendo algo novo todos os dias.
+- 🛠️ Trabalhando atualmente como técnico de redes NOC.
+- 🐍 Programador Python focado em DevOps.
+- 📚 Programando por estudos e por hobby.
+- 🇺🇸 Inglês fluente.
 
 ## Tecnologias
 
