@@ -1,13 +1,23 @@
-# Bem vindo ao covil do Molin 🧌
+<!DOCTYPE html>
+<html lang="en">
 
-## Sobre Mim
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covil do Molin 🧌</title>
+</head>
 
-- 🛠️ Trabalhando atualmente como técnico de redes NOC.
-- 🐍 Programador Python focado em DevOps.
-- 📚 Programando por estudos e por hobby.
-- 🇺🇸 Inglês fluente.
+<body>
 
-## Tecnologias
+  <h1>Bem vindo ao covil do Molin 🧌</h1>
+
+  <h2>Sobre Mim</h2>
+  <ul>
+      <li>🛠️ Trabalhando atualmente como técnico de redes NOC.</li>
+      <li>🐍 Programador Python focado em DevOps.</li>
+      <li>📚 Programando por estudos e por hobby.</li>
+      <li>🇺🇸 Inglês fluente.</li>
+  </ul>
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -15,10 +25,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-purple?style=for-the-badge&logo=css3)
 
-## Estatísticas do GitHub
+  <h2>Vamos Conectar!</h2>
+  <p>
+      💼 LinkedIn: <a href="https://www.linkedin.com/in/jean-molin-us/">Jean Molin</a>
+  </p>
 
-## Vamos Conectar!
+  <!-- Adicione outras seções conforme necessário -->
 
-- 💼 LinkedIn: [Jean Molin](https://www.linkedin.com/in/jean-molin-us/)
-
-![yoshi](https://github.com/molinxo/molinxo/assets/99094380/c520c63c-cc66-43d4-ad57-82bd7ff3e2be)
+</body>
