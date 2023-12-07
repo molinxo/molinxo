@@ -24,6 +24,6 @@
   </p>
 
   <!-- Adicione outras seções conforme necessário -->
-
+<img align="right" width="150" height="150" src="https://github.com/molinxo/molinxo/assets/99094380/584bc293-f4ad-4b26-a3d7-02313426b97c.gif"></a>
 </body>
-<img src="https://giphy.com/embed/108o2iMGnu4aac" width="480" height="98" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+![pikachu](https://github.com/molinxo/molinxo/assets/99094380/584bc293-f4ad-4b26-a3d7-02313426b97c)
