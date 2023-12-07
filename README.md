@@ -3,7 +3,7 @@
 
 <h1 align="left">Bem vindo ao covil do Molin 🧌
     
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)<a href="https://www.linkedin.com/in/jean-molin-us/"></a>
+<a href="https://www.linkedin.com/in/jean-molin-us/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
 </h1> 
 
 <h2>Sobre Mim</h2>
