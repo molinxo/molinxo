@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <body>
-  <h1>Bem vindo ao covil do Molin 🧌</h1>
-  
+  <h1 align="left">Bem vindo ao covil do Molin 🧌</h1>  
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=blue)
 
   <h2>Sobre Mim</h2>
