@@ -17,10 +17,6 @@
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?molinxo&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
 ## Vamos Conectar!
 
 - 💼 LinkedIn: [Jean Molin](https://www.linkedin.com/in/jean-molin-us/)
-
-Obrigado por visitar o meu perfil! 😊
