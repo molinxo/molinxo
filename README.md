@@ -10,7 +10,7 @@
 <img align="right" width="150" height="150" src="https://github.com/molinxo/molinxo/assets/99094380/584bc293-f4ad-4b26-a3d7-02313426b97c.gif"></a>
 <ul>
     <li>🛠️ Trabalhando atualmente como técnico de redes NOC.</li>
-    <li>🐍 Programador Python focado em DevOps.</li>
+    <li>🐍 Programador Python focado em Backend.</li>
     <li>📚 Programando por estudos e por hobby.</li>
     <li>🇺🇸 Inglês fluente.</li>
 </ul>
