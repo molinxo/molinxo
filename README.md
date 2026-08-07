@@ -9,7 +9,7 @@
 <h3>Sobre Mim</h3>
 <img align="right" width="150" height="150" src="https://github.com/molinxo/molinxo/assets/99094380/584bc293-f4ad-4b26-a3d7-02313426b97c.gif"></a>
 <ul>
-    <li>🛠️ Network Analyst Jr.</li>
+    <li>🛠️ Network Engineer</li>
     <li>🐍 Python Programmer.</li>
     <li>📚 Focusing DevOps.</li>
     <li>🇺🇸 English | Portuguese.</li>
